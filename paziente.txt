@@ -1,0 +1,5 @@
+ID: AM
+Year of Birth: 1998
+Age: 27
+Study Date: 27-09-2024
+Clinical Information: 
