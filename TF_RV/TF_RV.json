@@ -5,7 +5,7 @@
             "path": "TF_RV/LRVbranch_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVbranch_1.stl",
             "opacity": 1.0,
-            "color": "#8f98b7",
+            "color": "#fd80e6",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -23,7 +23,7 @@
             "path": "TF_RV/LRVbranch_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVbranch_2.stl",
             "opacity": 1.0,
-            "color": "#e1f61b",
+            "color": "#f00638",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -41,7 +41,7 @@
             "path": "TF_RV/LRVbranch_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVbranch_3.stl",
             "opacity": 1.0,
-            "color": "#237b28",
+            "color": "#76333e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "TF_RV/LRVbranch_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVbranch_4.stl",
             "opacity": 1.0,
-            "color": "#dd1529",
+            "color": "#1843dc",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +77,7 @@
             "path": "TF_RV/LRVbranch_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVbranch_5.stl",
             "opacity": 1.0,
-            "color": "#50591a",
+            "color": "#a5b38b",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -95,7 +95,7 @@
             "path": "TF_RV/LRVbranch_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVbranch_6.stl",
             "opacity": 1.0,
-            "color": "#ecfa47",
+            "color": "#c6eabb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "TF_RV/LRVbranch_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVbranch_7.stl",
             "opacity": 1.0,
-            "color": "#01e3e7",
+            "color": "#bfe7e4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -131,7 +131,7 @@
             "path": "TF_RV/LRVbranch_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVbranch_8.stl",
             "opacity": 1.0,
-            "color": "#63d4b8",
+            "color": "#328264",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -149,7 +149,7 @@
             "path": "TF_RV/LRVterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVterritory_1.stl",
             "opacity": 0.4,
-            "color": "#8f98b7",
+            "color": "#fd80e6",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -167,7 +167,7 @@
             "path": "TF_RV/LRVterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVterritory_2.stl",
             "opacity": 0.4,
-            "color": "#e1f61b",
+            "color": "#f00638",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -185,7 +185,7 @@
             "path": "TF_RV/LRVterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVterritory_3.stl",
             "opacity": 0.4,
-            "color": "#237b28",
+            "color": "#76333e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -203,7 +203,7 @@
             "path": "TF_RV/LRVterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVterritory_4.stl",
             "opacity": 0.4,
-            "color": "#dd1529",
+            "color": "#1843dc",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -221,7 +221,7 @@
             "path": "TF_RV/LRVterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVterritory_5.stl",
             "opacity": 0.4,
-            "color": "#50591a",
+            "color": "#a5b38b",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -239,7 +239,7 @@
             "path": "TF_RV/LRVterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVterritory_6.stl",
             "opacity": 0.4,
-            "color": "#ecfa47",
+            "color": "#c6eabb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -257,7 +257,7 @@
             "path": "TF_RV/LRVterritory_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVterritory_7.stl",
             "opacity": 0.4,
-            "color": "#01e3e7",
+            "color": "#bfe7e4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -275,7 +275,7 @@
             "path": "TF_RV/LRVterritory_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/LRVterritory_8.stl",
             "opacity": 0.4,
-            "color": "#63d4b8",
+            "color": "#328264",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -293,7 +293,7 @@
             "path": "TF_RV/RRVbranch_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVbranch_1.stl",
             "opacity": 1.0,
-            "color": "#8f98b7",
+            "color": "#fd80e6",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -311,7 +311,7 @@
             "path": "TF_RV/RRVbranch_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVbranch_2.stl",
             "opacity": 1.0,
-            "color": "#e1f61b",
+            "color": "#f00638",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -329,7 +329,7 @@
             "path": "TF_RV/RRVbranch_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVbranch_3.stl",
             "opacity": 1.0,
-            "color": "#237b28",
+            "color": "#76333e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -347,7 +347,7 @@
             "path": "TF_RV/RRVbranch_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVbranch_4.stl",
             "opacity": 1.0,
-            "color": "#dd1529",
+            "color": "#1843dc",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -365,7 +365,7 @@
             "path": "TF_RV/RRVbranch_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVbranch_5.stl",
             "opacity": 1.0,
-            "color": "#50591a",
+            "color": "#a5b38b",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -383,7 +383,7 @@
             "path": "TF_RV/RRVbranch_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVbranch_6.stl",
             "opacity": 1.0,
-            "color": "#ecfa47",
+            "color": "#c6eabb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -401,7 +401,7 @@
             "path": "TF_RV/RRVterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVterritory_1.stl",
             "opacity": 0.4,
-            "color": "#8f98b7",
+            "color": "#fd80e6",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -419,7 +419,7 @@
             "path": "TF_RV/RRVterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVterritory_2.stl",
             "opacity": 0.4,
-            "color": "#e1f61b",
+            "color": "#f00638",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -437,7 +437,7 @@
             "path": "TF_RV/RRVterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVterritory_3.stl",
             "opacity": 0.4,
-            "color": "#237b28",
+            "color": "#76333e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -455,7 +455,7 @@
             "path": "TF_RV/RRVterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVterritory_4.stl",
             "opacity": 0.4,
-            "color": "#dd1529",
+            "color": "#1843dc",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -473,7 +473,7 @@
             "path": "TF_RV/RRVterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVterritory_5.stl",
             "opacity": 0.4,
-            "color": "#50591a",
+            "color": "#a5b38b",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -491,7 +491,7 @@
             "path": "TF_RV/RRVterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RV/RRVterritory_6.stl",
             "opacity": 0.4,
-            "color": "#ecfa47",
+            "color": "#c6eabb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
