@@ -19,9 +19,9 @@
             }
         },
         {
-            "name": "graft_1.stl",
-            "path": "TF_NAR/graft_1.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/graft_1.stl",
+            "name": "graft_1_a3_m1.5.stl",
+            "path": "TF_NAR/graft_1_a3_m1.5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/graft_1_a3_m1.5.stl",
             "opacity": 0.4,
             "color": "#7f7f7f",
             "material": {
@@ -37,9 +37,9 @@
             }
         },
         {
-            "name": "graft_2.stl",
-            "path": "TF_NAR/graft_2.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/graft_2.stl",
+            "name": "graft_2_a3_m2.stl",
+            "path": "TF_NAR/graft_2_a3_m2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/graft_2_a3_m2.stl",
             "opacity": 0.4,
             "color": "#7f7f7f",
             "material": {
@@ -55,9 +55,9 @@
             }
         },
         {
-            "name": "graft_3.stl",
-            "path": "TF_NAR/graft_3.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/graft_3.stl",
+            "name": "graft_3_a3_m2.5.stl",
+            "path": "TF_NAR/graft_3_a3_m2.5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/graft_3_a3_m2.5.stl",
             "opacity": 0.4,
             "color": "#7f7f7f",
             "material": {
@@ -145,9 +145,9 @@
             }
         },
         {
-            "name": "remnant_1.stl",
-            "path": "TF_NAR/remnant_1.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/remnant_1.stl",
+            "name": "remnant_1_a3_m1.5.stl",
+            "path": "TF_NAR/remnant_1_a3_m1.5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/remnant_1_a3_m1.5.stl",
             "opacity": 0.4,
             "color": "#dd8265",
             "material": {
@@ -163,9 +163,9 @@
             }
         },
         {
-            "name": "remnant_2.stl",
-            "path": "TF_NAR/remnant_2.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/remnant_2.stl",
+            "name": "remnant_2_a3_m2.stl",
+            "path": "TF_NAR/remnant_2_a3_m2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/remnant_2_a3_m2.stl",
             "opacity": 0.4,
             "color": "#dd8265",
             "material": {
@@ -181,9 +181,9 @@
             }
         },
         {
-            "name": "remnant_3.stl",
-            "path": "TF_NAR/remnant_3.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/remnant_3.stl",
+            "name": "remnant_3_a3_m2.5.stl",
+            "path": "TF_NAR/remnant_3_a3_m2.5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_NAR/remnant_3_a3_m2.5.stl",
             "opacity": 0.4,
             "color": "#dd8265",
             "material": {
