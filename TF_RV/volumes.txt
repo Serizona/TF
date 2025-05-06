@@ -1,0 +1,17 @@
+File STL		Volume (cm³)
+========================================
+LRVterritory_1.stl		6.24201 cm³
+LRVterritory_2.stl		28.42477 cm³
+LRVterritory_3.stl		15.50773 cm³
+LRVterritory_4.stl		23.24081 cm³
+LRVterritory_5.stl		0.35463 cm³
+LRVterritory_6.stl		16.55782 cm³
+LRVterritory_7.stl		7.30200 cm³
+LRVterritory_8.stl		4.43733 cm³
+RRVterritory_1.stl		25.09734 cm³
+RRVterritory_2.stl		14.86595 cm³
+RRVterritory_3.stl		3.55988 cm³
+RRVterritory_4.stl		14.22995 cm³
+RRVterritory_5.stl		26.38005 cm³
+RRVterritory_6.stl		8.33352 cm³
+left_mass.stl		3.33915 cm³
