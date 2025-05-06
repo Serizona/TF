@@ -1,0 +1,6 @@
+File STL		Volume (cm³)
+========================================
+left_graft.stl		43.41202 cm³
+left_mass.stl		3.33915 cm³
+left_remnant.stl		58.90654 cm³
+right_kidney.stl		92.81156 cm³
