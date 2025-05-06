@@ -1,0 +1,20 @@
+File STL		Volume (cm³)
+========================================
+LRAterritory_1.stl		17.39993 cm³
+LRAterritory_10.stl		9.51459 cm³
+LRAterritory_11.stl		5.56713 cm³
+LRAterritory_2.stl		26.88258 cm³
+LRAterritory_3.stl		7.96894 cm³
+LRAterritory_4.stl		2.85385 cm³
+LRAterritory_5.stl		5.05518 cm³
+LRAterritory_6.stl		7.59402 cm³
+LRAterritory_7.stl		9.01411 cm³
+LRAterritory_8.stl		3.28402 cm³
+LRAterritory_9.stl		6.72796 cm³
+RRAterritory_1.stl		2.30249 cm³
+RRAterritory_2.stl		12.35112 cm³
+RRAterritory_3.stl		6.11471 cm³
+RRAterritory_4.stl		21.98542 cm³
+RRAterritory_5.stl		24.41346 cm³
+RRAterritory_6.stl		0.48579 cm³
+RRAterritory_7.stl		24.67019 cm³
