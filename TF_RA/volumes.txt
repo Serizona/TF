@@ -18,3 +18,4 @@ RRAterritory_4.stl		21.98542 cm³
 RRAterritory_5.stl		24.41346 cm³
 RRAterritory_6.stl		0.48579 cm³
 RRAterritory_7.stl		24.67019 cm³
+left_mass.stl		3.33915 cm³
