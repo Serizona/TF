@@ -1,0 +1,544 @@
+{
+    "models": [
+        {
+            "name": "LRAbranch_1.stl",
+            "path": "TF_RA/LRAbranch_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAbranch_1.stl",
+            "opacity": 1.0,
+            "color": "#63a59b",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_2.stl",
+            "path": "TF_RA/LRAbranch_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAbranch_2.stl",
+            "opacity": 1.0,
+            "color": "#b8e2d6",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_3.stl",
+            "path": "TF_RA/LRAbranch_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAbranch_3.stl",
+            "opacity": 1.0,
+            "color": "#28251c",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_4.stl",
+            "path": "TF_RA/LRAbranch_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAbranch_4.stl",
+            "opacity": 1.0,
+            "color": "#20ec93",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_5.stl",
+            "path": "TF_RA/LRAbranch_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAbranch_5.stl",
+            "opacity": 1.0,
+            "color": "#62c799",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_6.stl",
+            "path": "TF_RA/LRAbranch_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAbranch_6.stl",
+            "opacity": 1.0,
+            "color": "#f1a703",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_1.stl",
+            "path": "TF_RA/LRAterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#63a59b",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_2.stl",
+            "path": "TF_RA/LRAterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#b8e2d6",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_3.stl",
+            "path": "TF_RA/LRAterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#28251c",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_4.stl",
+            "path": "TF_RA/LRAterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#20ec93",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_5.stl",
+            "path": "TF_RA/LRAterritory_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAterritory_5.stl",
+            "opacity": 0.4,
+            "color": "#62c799",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_6.stl",
+            "path": "TF_RA/LRAterritory_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/LRAterritory_6.stl",
+            "opacity": 0.4,
+            "color": "#f1a703",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranches_1.stl",
+            "path": "TF_RA/RRAbranches_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAbranches_1.stl",
+            "opacity": 1.0,
+            "color": "#63a59b",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranches_2.stl",
+            "path": "TF_RA/RRAbranches_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAbranches_2.stl",
+            "opacity": 1.0,
+            "color": "#b8e2d6",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranches_3.stl",
+            "path": "TF_RA/RRAbranches_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAbranches_3.stl",
+            "opacity": 1.0,
+            "color": "#28251c",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranches_4.stl",
+            "path": "TF_RA/RRAbranches_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAbranches_4.stl",
+            "opacity": 1.0,
+            "color": "#20ec93",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranches_5.stl",
+            "path": "TF_RA/RRAbranches_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAbranches_5.stl",
+            "opacity": 1.0,
+            "color": "#62c799",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranches_6.stl",
+            "path": "TF_RA/RRAbranches_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAbranches_6.stl",
+            "opacity": 1.0,
+            "color": "#f1a703",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranches_7.stl",
+            "path": "TF_RA/RRAbranches_7.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAbranches_7.stl",
+            "opacity": 1.0,
+            "color": "#b15b91",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_1.stl",
+            "path": "TF_RA/RRAterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#63a59b",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_2.stl",
+            "path": "TF_RA/RRAterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#b8e2d6",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_3.stl",
+            "path": "TF_RA/RRAterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#28251c",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_4.stl",
+            "path": "TF_RA/RRAterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#20ec93",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_5.stl",
+            "path": "TF_RA/RRAterritory_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAterritory_5.stl",
+            "opacity": 0.4,
+            "color": "#62c799",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_6.stl",
+            "path": "TF_RA/RRAterritory_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAterritory_6.stl",
+            "opacity": 0.4,
+            "color": "#f1a703",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_7.stl",
+            "path": "TF_RA/RRAterritory_7.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/RRAterritory_7.stl",
+            "opacity": 0.4,
+            "color": "#b15b91",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "aorta.stl",
+            "path": "TF_RA/aorta.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/aorta.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_artery.stl",
+            "path": "TF_RA/left_artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/left_artery.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_mass.stl",
+            "path": "TF_RA/left_mass.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/left_mass.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "right_artery.stl",
+            "path": "TF_RA/right_artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/TF/master/TF_RA/right_artery.stl",
+            "opacity": 1.0,
+            "color": "#d93111",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        }
+    ]
+}
